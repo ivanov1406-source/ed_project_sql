@@ -69,24 +69,24 @@ https://www.kaggle.com/datasets/airbnb/boston
 project-root
 │
 ├── data
-│   ├── raw
-│   │   ├── listings.csv
-│   │   └── calendar_example.csv
-│   │
-│   └── processed
-│       ├── listings_clean.csv
-│       ├── calendar_clean.csv
-│       └── rate_index_list.csv
+│ ├── raw
+│ │ ├── listings.csv
+│ │ └── calendar_example.csv
+│ │
+│ └── processed
+│ ├── listings_clean.csv
+│ ├── calendar_clean.csv
+│ └── rate_index_list.csv
 │
 ├── sql
-│   ├── 01_clean_table.sql
-│   ├── 02_rate_list.sql
-│   └── 03_find_optimal_dates.sql
+│ ├── 01_clean_table.sql
+│ ├── 02_rate_list.sql
+│ └── 03_find_optimal_dates.sql
 │
 ├── results
-│   ├── final_list.csv
-│   ├── result.xlsx
-│   └── map.png
+│ ├── final_list.csv
+│ ├── result.xlsx
+│ └── map.png
 │
 └── README.md
 
