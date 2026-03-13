@@ -67,6 +67,7 @@ https://www.kaggle.com/datasets/airbnb/boston
 
 ## Repository Structure
 project-root
+```
 │
 ├── data
 │ ├── raw
@@ -89,7 +90,7 @@ project-root
 │ └── map.png
 │
 └── README.md
-
+```
 ### Folder Description
 
 **data/raw/**  
