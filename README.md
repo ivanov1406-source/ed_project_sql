@@ -24,3 +24,6 @@ https://www.kaggle.com/datasets/airbnb/boston
 - 10 отдельных квартир для топ-менеджеров
 - 57 квартир для остальных участников
 Ожидаемый уровень удовлетворенности жильём: 9.4
+
+## Map of selected apartments
+![Map](results/map.png)
