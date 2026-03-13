@@ -62,3 +62,48 @@ https://www.kaggle.com/datasets/airbnb/boston
 
 ## Map of selected apartments
 ![Map](results/map.png)
+
+---
+
+## Repository Structure
+project-root
+│
+├── data
+│   ├── raw
+│   │   ├── listings.csv
+│   │   └── calendar_example.csv
+│   │
+│   └── processed
+│       ├── listings_clean.csv
+│       ├── calendar_clean.csv
+│       └── rate_index_list.csv
+│
+├── sql
+│   ├── 01_clean_table.sql
+│   ├── 02_rate_list.sql
+│   └── 03_find_optimal_dates.sql
+│
+├── results
+│   ├── final_list.csv
+│   ├── result.xlsx
+│   └── map.png
+│
+└── README.md
+
+### Folder Description
+
+**data/raw/**  
+Исходные данные из датасета Airbnb Boston.  
+https://www.kaggle.com/datasets/airbnb/boston
+
+**data/processed/**  
+Очищенные и подготовленные таблицы, используемые для анализа.
+
+**sql/**  
+SQL-запросы для очистки данных, формирования рейтингов и поиска оптимальных дат и квартир.
+
+**results/**  
+Итоговые результаты анализа:
+- финальный список квартир
+- расчет бюджета
+- карта расположения выбранных вариантов
