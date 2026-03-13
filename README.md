@@ -1,12 +1,10 @@
 ## ed_project_sql 
 ### Key Results
 
-- **Optimal conference dates:** 20–22 February 2017  
-- **Total accommodation budget:** $62,005  
-- **Average cost per participant:** $399  
-- **Executive accommodation cost:** $610  
-- **Total apartments selected:** 67  
-- **Expected housing satisfaction:** 9.4 / 10
+- **Оптимальная дата конференции:** 20–22 февраля 2017  
+- **Стоимость проживания:** $62,005  
+- **Всего квартир:** 67  
+- **Ожидаемый рейтинг удовлетворённости:** 9.4 / 10
 
 ## Project overview  
 
